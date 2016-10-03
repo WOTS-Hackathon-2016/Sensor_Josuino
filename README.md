@@ -1,6 +1,6 @@
 # Sensor_Josuino
 
-Welcome at the new Josuino sensor. Josuino is an Arduino based IoT device, which makes it possible to alter the firmware in the device using the familiar Arduino environment. @WOTS, Josuino prototypes with ID 67, 68 and 69 are active. Please feel free to explore other sensors currently online, they are installed in different location in the Netherlands and other parts of Europe. 
+Welcome at the new Josuino sensor. Josuino is an Arduino based IoT device, which makes it possible to alter the firmware in the device using the familiar Arduino environment. @WOTS, Josuino prototypes with ID 67, 68 and 69 are active. Please feel free to explore other sensors currently online, they are installed in different locations in the Netherlands and other parts of Europe. 
 
 These are the Rest API commands to retrieve data from any Jose/Josuino sensor currently online. In the examples below sensor 67 is used, of course this can be any number. For more information and examples, please see http://data.smartemission.nl
 
