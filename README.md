@@ -2,19 +2,11 @@
 
 Welcome at the new Josuino sensor. Josuino is an Arduino based IoT device, which makes it possible to alter the firmware in the device using the familiar Arduino environment. @WOTS, Josuino prototypes with ID 67, 68 and 69 are active. Please feel free to explore other sensors currently online, they are installed in different locations in the Netherlands and other parts of Europe.
 
-Josuino senses:
-Ambient Temperature
-Humidity
-Air Pressure
-CO2
-Particle Matter PM10
-Particle Matter PM2.5
+Josuino senses: Ambient Temperature, Humidity, Air Pressure, CO2, Particle Matter PM10 and PM2.5.
 
-But also:
-Unit Temperature
-Light intensity
-Acceleration in X and Y axis
-Device angle
+But also: Unit Temperature, Light intensity, Acceleration in X and Y axis, Device angle, and communicates over USB and WiFi to internet. 
+
+In the nearby future, Josuino will also sense PM1 and VOCs, and communicate by LoRa and MiRa.
 
 These are the Rest API commands to retrieve data from any Jose/Josuino sensor currently online. In the examples below sensor 67 is used, of course this can be any number. For more information and examples, please see http://data.smartemission.nl
 
